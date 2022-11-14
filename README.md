@@ -1,4 +1,7 @@
-### Hi there 👋
+### Salut 👋
+- 🔭 En ce moment je bosse chez @AmphiBee
+- 🌱 J'apprend en ce moment React, Laravel et Docker
+- 📫 How to reach me: denis.dumont09@gmail.com  
 
 <!--
 **denisdums/denisdums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
